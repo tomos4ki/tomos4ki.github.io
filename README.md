@@ -1,1 +1,1 @@
-reade file for my website
+readme file for my website
